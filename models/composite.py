@@ -40,5 +40,8 @@ class Session(Composite):
 class Cours(Composite):
     pass
 
+class Departement(Composite):
+    pass
+
 class Programme(Composite):
     pass
